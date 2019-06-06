@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-The six steps of Data Pre processing:
-=======
->>>>>>> 34182e851677f777804369c7b3635a76de82f1e4
-
+The six steps of Data Preprocessing:
+1. Get Dataset
+2. Import Libraries
+3. Import Dataset
+4. Missing Values
+5. Categorial Variables
+6. Spilt Dataset Into Training and Testing set
+7. Feature Scaling
