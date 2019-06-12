@@ -6,3 +6,6 @@ The six steps of Data Preprocessing:
 5. Categorial Variables
 6. Spilt Dataset Into Training and Testing set
 7. Feature Scaling
+
+
+You can find the detailed description on http://demystifymedia.com/datapreprocessing.php
